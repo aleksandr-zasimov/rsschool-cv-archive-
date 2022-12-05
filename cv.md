@@ -30,3 +30,36 @@ function multiply(a, b){
 }
 ```
 
+---
+
+## ✨PROJECTS✨
+
+#### **[Furniture Store](https://aleksandr-zasimov.github.io/Furniture-Store/)** | November 2022
+
+* Developed the front end of the entire website using HTML5, CSS3, and Javascript.
+* Converted raw images and layouts from a graphic designer into CSS/HTML themes.
+* Implemented web pages using the semantic markup and page layout of HTML5.
+* Used SASS for creating CSS frameworks to store things like colors, font stacks, or any CSS value.
+**[Git Hub](https://https://github.com/aleksandr-zasimov/Furniture-Store)**
+
+---
+
+## ✨EDUCATION✨
+
+#### **SkyPro University** | Saint-Petersburg, RU | 2022 - till now
+> Certificate, Web Development
+
+#### **Saint Petersburg Mining University** | Saint-Petersburg, RU | 2008 - 2015
+> Diploma of Higher Education, Economics and Management
+
+#### **North-Eastern Federal University (former Yakutsk State University)** | Yakutsk, RU | 2003 - 2008
+> Diploma of Higher Education, Mineral processing
+
+---
+
+## ✨LANGUAGES✨
+| Language | Level |
+| ------ | ------ |
+| Russian | Native |
+| English | Pre-Intermediate |
+| German | Elementary |
